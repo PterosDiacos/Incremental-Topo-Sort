@@ -9,9 +9,13 @@ For a written report, see "Incremental Topo Sort.pdf"
 
 ---
 (A1) Incr.edge.un: unselective update by edge
+
 (A2) Incr.edge.se.one: selective update by edge, expanding the right boundary of the affected region one object at a time
+
 (A3) Incr.edge.se.jump: selective update by edge, expanding the right boundary of the affected region by jumping
 
 (B1) Incr.erc.un: unselective update by erc (baseline algorithm)
+
 (B2) Incr.erc.se.one: selective update by erc, expanding the right boundary of the affected region one object at a time
+
 (B3) Incr.erc.se.jump: selective update by erc, expanding the right boundary of the affected region by jumping
